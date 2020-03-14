@@ -1,0 +1,76 @@
+/* CSS Document */
+Main{
+	width:  967px;
+	height: 1151px;
+	background-color: lightcyan;
+	margin:0 auto;
+}
+#header{
+	width:  967px;
+	height: 165px;
+	background-color: skyblue;
+}
+.logo{
+	width:  342px;
+	height: 165px;
+	background-color: #07D4BE;
+	float: left;
+	
+}
+.menu{
+	width:  625px;
+	height: 165px;
+	background-color: #6F00FB;
+	float: right
+}
+#content{
+	width:  967px;
+	height: 890px;
+	background-color: aqua;
+}
+.banner{
+	width:  967px;
+	height: 484px;
+	background-color: aliceblue;
+}
+.title{
+	width:  967px;
+	height: 83px;
+	background-color: #008CFF;
+}
+.projects{
+	width:  967px;
+	height: 250px;
+}
+.box{
+	width:  232px;
+	height: 143px;
+	background-color: orange;
+	float: left;
+	margin-left: 7.5px;
+	margin-top: 50px;
+}
+#footer{
+	width: 967px;
+	height: 98px;
+	background-color: antiquewhite;
+}
+.ft-content{
+	width: 967px;
+	height: 50px;
+	background-color: #1A4D3A;
+	margin-top: 49px;
+}
+.left{
+	width: 300px;
+	height: 50px;
+	background-color: #048F4B;
+	float: left;
+}
+.right{
+	width: 667px;
+	height: 50px;
+	background-color: #82FF8A;
+	float: right;
+}
+
